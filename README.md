@@ -1,2 +1,2 @@
 # Twitter-sentiment-analysis
-This is a basic sentiment analysis in which we're doing NLP preprocessing such as tokenization/lemminization with the help of nltk library.
+This is a basic sentiment analysis in which first we're importing the dataset from kaggle using API, after that we're doing NLP preprocessing such as tokenization/lemminization with the help of nltk library. We're also using Logistic regression and evaluating our model also vectorizing the text data into numerical data in order to get the result then we can predict if the sentiment is positive, negative or neutral
